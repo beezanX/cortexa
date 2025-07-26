@@ -1,7 +1,7 @@
 title: cortexa # name of the site
 author: Abdellah Afgrouch # name of site's author
 email: i1337x@protonmail.com # email of site's author
-url: https://beezanx.github.io/ # root address of the site
+url: https://beezanx.github.io/cortexa/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   Cortexa is a blog where psychology, psychedelics and tech collide to shatter mental limits and unlock new ways of thinking
